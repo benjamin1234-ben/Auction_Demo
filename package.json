@@ -1,0 +1,12 @@
+{
+  "name": "Auction_",
+  "version": "1.0.0",
+  "description": "Auction App demo -- CLI codebase built with Reach and Javascript",
+  "main": "index.mjs",
+  "scripts": {
+    "index": "node --experimental-modules --unhandled-rejections=strict index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
